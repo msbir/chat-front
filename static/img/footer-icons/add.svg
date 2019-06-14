@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>3F23B285-8817-4970-BCC7-0B05D66CC27C</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu/bars/Bottom/empty" transform="translate(-15.000000, -13.000000)" fill-rule="nonzero">
+            <g id="icons/add" transform="translate(15.000000, 13.000000)">
+                <circle id="Oval" fill="#93929B" cx="10" cy="10" r="10"></circle>
+                <path d="M10.75,9.25 L14.3478261,9.25 C14.7080118,9.25 15,9.58578644 15,10 C15,10.4142136 14.7080118,10.75 14.3478261,10.75 L10.75,10.75 L10.75,14.3478261 C10.75,14.7080118 10.4142136,15 10,15 C9.58578644,15 9.25,14.7080118 9.25,14.3478261 L9.25,10.75 L5.65217391,10.75 C5.29198821,10.75 5,10.4142136 5,10 C5,9.58578644 5.29198821,9.25 5.65217391,9.25 L9.25,9.25 L9.25,5.65217391 C9.25,5.29198821 9.58578644,5 10,5 C10.4142136,5 10.75,5.29198821 10.75,5.65217391 L10.75,9.25 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>5CF64978-BBAF-4B85-91FB-F5AEFE63BA1A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M18.6721343,31.430042 L0.550673697,12.4507816 C-0.183557899,11.6935445 -0.183557899,10.4690761 0.550673697,9.71183907 L1.65983206,8.56792779 C2.39406366,7.81069074 3.58133177,7.81069074 4.31556337,8.56792779 L20,25.0499171 L35.6844366,8.58403921 C36.4186682,7.82680216 37.6059363,7.82680216 38.3401679,8.58403921 L39.4493263,9.7279505 C40.1835579,10.4851875 40.1835579,11.709656 39.4493263,12.466893 L21.3278657,31.4461535 C20.5936341,32.1872791 19.4063659,32.1872791 18.6721343,31.430042 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons/general/arrowdown">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="arrow-right💜icon" fill="#93929B" fill-rule="nonzero" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

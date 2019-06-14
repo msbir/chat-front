@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="YOHO" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="profile-detailed" transform="translate(-338.000000, -181.000000)" fill="#FCFCFC" fill-rule="nonzero">
+            <g id="icons/-block" transform="translate(340.000000, 182.000000)">
+                <path d="M16.6631172,3.94987332 L3.94987332,16.6631172 C5.54801238,18.1150945 7.67066582,19 10,19 C14.9705627,19 19,14.9705627 19,10 C19,7.67066582 18.1150945,5.54801238 16.6631172,3.94987332 Z M15.9508057,3.24797135 C14.364542,1.84886174 12.2814021,1 10,1 C5.02943725,1 1,5.02943725 1,10 C1,12.2814021 1.84886174,14.364542 3.24797135,15.9508057 L15.9508057,3.24797135 Z M10,20 C4.4771525,20 0,15.5228475 0,10 C0,4.4771525 4.4771525,0 10,0 C15.5228475,0 20,4.4771525 20,10 C20,15.5228475 15.5228475,20 10,20 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
