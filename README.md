@@ -1,7 +1,7 @@
-# yohofrontend
+# chatfrontend
 
 =======
-# yoho
+# Chat
 
 > A Vue.js project
 
