@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@pusher/chatkit": "^0.7.17",
-    "axios": "^0.15.3",
+    "axios": "^0.21.1",
     "dotenv-webpack": "^1.5.7",
     "laravel-echo": "^1.4.0",
     "localforage": "^1.7.2",
